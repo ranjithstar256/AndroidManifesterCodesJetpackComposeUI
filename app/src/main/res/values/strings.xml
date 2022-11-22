@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidManifester Codes Jetpack Compose UI</string>
+    <string name="title_activity_simple_login_screen_ui">SimpleLoginScreenUI</string>
+</resources>
